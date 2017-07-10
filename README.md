@@ -13,7 +13,7 @@ Linked List Data Structure.
 -Run the LinkedList.cpp in any C++ environment.
 
 For inserting, consider this example:
-![Inserting the record](/INSER-example.png)
+![Inserting the record](/INSERT-example.png)
 
 While entering, Results can only accept "W", "P" and "F" which means Withheld, Pass and Fail respectively.
 If you look at the above picture, other sub-sections i.e modify, delete, display etc. are self-explanatory.
